@@ -59,7 +59,7 @@ jobs:
       - name: Build
         run: npm run build:production
       - name: Download reference statistics
-        uses: dawidd6/action-download-artifact@v2
+        uses: dawidd6/action-download-artifact@v6
         with:
           workflow: statoscope-upload-reference-statistics.yml
           workflow_conclusion: success
