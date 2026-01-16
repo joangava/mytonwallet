@@ -68,7 +68,7 @@ jobs:
 
       - name: Get branch name for current workflow run
         id: branch-name
-        uses: tj-actions/branch-names@v7
+        uses: tj-actions/branch-names@v9.0.0
 
       - name: Build, package and publish
         env:
