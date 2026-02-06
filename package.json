@@ -164,7 +164,7 @@
     "sass": "1.79.4",
     "sass-loader": "16.0.2",
     "script-loader": "0.7.2",
-    "serve": "14.2.3",
+    "serve": "14.2.5",
     "stylelint": "14.16.1",
     "stylelint-config-clean-order": "0.8.0",
     "stylelint-config-recommended-scss": "8.0.0",
