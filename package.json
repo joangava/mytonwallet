@@ -93,7 +93,7 @@
     "@capacitor/cli": "6.1.2",
     "@electron/rebuild": "3.7.0",
     "@peculiar/webcrypto": "1.5.0",
-    "@playwright/test": "1.48.0",
+    "@playwright/test": "1.56.1",
     "@statoscope/cli": "5.28.2",
     "@statoscope/webpack-plugin": "5.28.2",
     "@testing-library/jest-dom": "6.5.0",
